@@ -1,0 +1,22 @@
+{
+  "name": "hw-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kai357/homework-7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kai357/homework-7/issues"
+  },
+  "homepage": "https://github.com/Kai357/homework-7#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
